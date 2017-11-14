@@ -1,0 +1,17 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Jackson Wyndow",
+	"home_page_url": "http://arc-rewrite.net/",
+	"feed_url": "http://arc-rewrite.net/feed.json",
+	"items": [
+		
+		{
+			"id": "http://JacksonOfTrades.micro.blog/2017/11/14/who-decided-it.html",
+	      	
+			"content_html": "<p>Who decided it was a good idea to give a 19 year old journalism student a micro.blog website? Time to start something I’ve been putting off for a while.</p>\n",
+			"date_published": "2017-11-14T14:57:00+13:00",
+			"url": "http://arc-rewrite.net/2017/11/14/who-decided-it.html"
+		}
+		
+	]
+}
