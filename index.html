@@ -8,11 +8,12 @@ sitemap:
 
 <ul class="list-posts h-feed">
     {% for post in paginator.posts %}
-        <li class="post-teaser h-entry">
-			<span class="post-teaser__title e-content">{{ post.content }}</span>
-            <a href="{{ post.url | prepend: site.baseurl }}" class="u-url">
+	<a href="{{ post.url | prepend: site.baseurl }}" class="u-url">
                 <span class="post-teaser__date"><time class="dt-published" datetime="{{ post.date }}">{{ post.date | date: "%d %B %Y" }}</time></span>
             </a>
+	
+        <li class="post-teaser h-entry">
+			<span class="post-teaser__title e-content">{{ post.content }}</span>
         </li>
     {% endfor %}
 </ul>
