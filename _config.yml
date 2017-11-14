@@ -17,7 +17,7 @@ baseurl: ""
 url: "http://arc-rewrite.net"
 markdown: "kramdown"
 username: "JacksonOfTrades"
-permalink: "/:year/:month/:day/:title.html"
+permalink: "/:short_year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Jackson Wyndow"
 name: "Jackson Wyndow"
