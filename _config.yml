@@ -9,8 +9,8 @@ exclude: ["README.md", "README.html"]
 highlighter: null
 # - markdown: kramdown
 
-title: "Jackson Wyndow"
-tagline: ""
+title: "Arc;Rewrite"
+tagline: "A blog about fandom, tecnology and depression | By Jackson Wyndow"
 description: "Follow <a href=\"https://micro.blog/JacksonOfTrades\">@JacksonOfTrades on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/JacksonOfTrades\">@JacksonOfTrades on Micro.blog</a>."
 baseurl: ""
