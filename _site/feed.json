@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://JacksonOfTrades.micro.blog/2017/11/14/currently-trying-to.html",
+	      	
+			"content_html": "<p>Currently trying to learn Hiragana so that I can help edit manga and visual novel translations</p>\n",
+			"date_published": "2017-11-14T17:05:00+13:00",
+			"url": "http://arc-rewrite.net/2017/11/14/currently-trying-to.html"
+		},
+		
+		{
 			"id": "http://JacksonOfTrades.micro.blog/2017/11/14/dont-mind-mejust.html",
 	      	
 			"content_html": "<h1 id=\"dont-mind-me\">Don’t mind me!</h1>\n\n<p>Just testing some stuff out and stealing your memes.</p>\n",
