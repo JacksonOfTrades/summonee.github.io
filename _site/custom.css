@@ -10,7 +10,7 @@ header.site-header{
 }
 
 .site-title:before{
-  content: "Arc;Rewrite by ";
+  content: "Arc;Rewrite | ";
   border-bottom: 2px solid #303030;
 }
 
