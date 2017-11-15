@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://JacksonOfTrades.micro.blog/2017/11/15/arc-rewrite-testing.html",
+	      	
+			"content_html": "<h1 id=\"arc-rewrite-testing\">Arc Rewrite testing</h1>\n\n<blockquote>\n  <p>I’m an editorialist… at Arc Rewrite</p>\n</blockquote>\n\n<p>This quote by Moeka in the popular visual novel Steins Gate is what spawned this blog, both in name and design. The concepts it covers all revolve around some facet of the girl: Her depression, her obsession with technology (Not being able to talk without it, constantly searching for the IBN5100). Even this sites design is based on her. Also because I’m a very shitty web designer.</p>\n",
+			"date_published": "2017-11-15T19:25:00+13:00",
+			"url": "http://arc-rewrite.net/2017/11/15/arc-rewrite-testing.html"
+		},
+		
+		{
 			"id": "http://JacksonOfTrades.micro.blog/2017/11/15/see-bernie-berstein.html",
 	      	
 			"content_html": "<p>See, Bernie Berstein is a good name, but I have something even better </p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/G-LtddOgUCE\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
