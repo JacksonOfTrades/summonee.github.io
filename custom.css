@@ -10,10 +10,6 @@ header.site-header{
   color: #f9f9f9;
 }
 
-.site-title{
-	display: none;
-}
-
 .site-title:after{
   content: "Arc;Rewrite";
 }
