@@ -3,9 +3,13 @@
   font-family: "Georgia", serif
 }
 
-a.site-title{
+.site-title{
   font-family: "Georgia", serif;
   background: #303030;
+  color: #f9f9f9;
+}
+
+.site-title a{
   color: #f9f9f9;
 }
 
