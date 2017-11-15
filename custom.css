@@ -14,6 +14,6 @@ header.site-header{
 	display: none;
 }
 
-.site-title:before{
+.site-title:after{
   content: "Arc;Rewrite";
 }
