@@ -1,5 +1,11 @@
+body{
+  background: #f9f9f9;
+  color: #303030;
+  font-family: "Georgia", serif
+}
+
 header.site-header{
-  font-family: Georgia;
+  font-family: "Georgia", serif;
   background: #33495f;
   color: #f9f9f9;
 }
