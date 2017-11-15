@@ -16,5 +16,6 @@ header.site-header{
 
 .site-title:after{
   content: "| A blog about technology, fandom, and depression." 
+}
 
 .site-title{color: #f9f9f9;}
