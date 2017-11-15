@@ -1,5 +1,13 @@
-header{
+header.site-header{
   font-family: Georgia;
   background: #33495f;
   color: #f9f9f9;
+}
+
+.site-title{
+	display: none;
+}
+
+.site-title:before{
+  content: "Arc;Rewrite";
 }
