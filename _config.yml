@@ -9,15 +9,15 @@ exclude: ["README.md", "README.html"]
 highlighter: null
 # - markdown: kramdown
 
-title: "Arc;Rewrite"
-tagline: "A blog about fandom, tecnology and depression | By Jackson Wyndow"
+title: "Jackson Wyndow"
+tagline: ""
 description: "Follow <a href=\"https://micro.blog/JacksonOfTrades\">@JacksonOfTrades on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/JacksonOfTrades\">@JacksonOfTrades on Micro.blog</a>."
 baseurl: ""
 url: "http://arc-rewrite.net"
 markdown: "kramdown"
 username: "JacksonOfTrades"
-permalink: "/:short_year/:month/:day/:title.html"
+permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Jackson Wyndow"
 name: "Jackson Wyndow"
