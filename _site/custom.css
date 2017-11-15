@@ -12,4 +12,5 @@
 
 .site-title:before{
   content: "Arc;Rewrite";
+  color: #f9f9f9;
 }
