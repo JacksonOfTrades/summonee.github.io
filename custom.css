@@ -12,6 +12,7 @@ header.site-header{
 
 .site-title:before{
   content: "Arc;Rewrite by ";
+  border-bottom: 2px solid #f9f9f9;
 }
 
 .site-title{color: #f9f9f9;}
