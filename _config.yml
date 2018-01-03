@@ -1,10 +1,41 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# - markdown: kramdown
+
+# Navigation
+nav:
+  - # - name:           "About"
+    href:           "/about/"
+  - # - name:           "RSS"
+    href:           "/feed.xml"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
 
 title: "Jackson Wyndow"
 tagline: ""
 description: "Follow <a href=\"https://micro.blog/JacksonOfTrades\">@JacksonOfTrades on Micro.blog</a>."
 credits: "Follow <a href=\"https://micro.blog/JacksonOfTrades\">@JacksonOfTrades on Micro.blog</a>."
 baseurl: ""
-url: "http://arc-rewrite.net"
+url: "https://JacksonOfTrades.micro.blog"
 markdown: "kramdown"
 username: "JacksonOfTrades"
 permalink: "/:year/:month/:day/:title.html"
@@ -12,7 +43,7 @@ relative_permalinks: false
 author: "Jackson Wyndow"
 name: "Jackson Wyndow"
 gravatar_hash: "ea61fa28a4a8b50be3825a264f1f8b21"
-avatar: "https://www.gravatar.com/avatar/ea61fa28a4a8b50be3825a264f1f8b21?s=160"
+avatar: "https://micro.blog/JacksonOfTrades/avatar.jpg"
 full_name: "Jackson Wyndow"
 bio: ""
 twitter_username: "JacksonOfTrades"
@@ -21,3 +52,4 @@ instagram_username: "jwyndow"
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: "Pacific/Tongatapu"
+site_id: "1719"
