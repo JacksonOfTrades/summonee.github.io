@@ -1,8 +1,8 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jackson Wyndow",
-	"home_page_url": "http://arc-rewrite.net/",
-	"feed_url": "http://arc-rewrite.net/feed.json",
+	"home_page_url": "https://JacksonOfTrades.micro.blog/",
+	"feed_url": "https://JacksonOfTrades.micro.blog/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +10,7 @@
 	      	
 			"content_html": "<p>Report: /g/ divided over support of Net Neutrality. One side is <em>against</em> as it will hurt liberals and ‘normies’. On the <em>for</em> side, the corrupt Chairman of the FCC is not 100% White European, therefore he is bad. As he is leading the campaign to remove NN, it must be opposed.</p>\n",
 			"date_published": "2017-11-23T17:52:00+13:00",
-			"url": "http://arc-rewrite.net/2017/11/23/report-g-divided.html"
+			"url": "https://JacksonOfTrades.micro.blog/2017/11/23/report-g-divided.html"
 		},
 		
 		{
@@ -18,7 +18,7 @@
 	      	
 			"content_html": "<h1 id=\"arc-rewrite-testing\">Arc Rewrite testing</h1>\n\n<blockquote>\n  <p>I’m an editorialist… at Arc Rewrite</p>\n</blockquote>\n\n<p>This quote by Moeka in the popular visual novel Steins Gate is what spawned this blog, both in name and design. The concepts it covers all revolve around some facet of the girl: Her depression, her obsession with technology (Not being able to talk without it, constantly searching for the IBN5100). Even this sites design is based on her. Also because I’m a very shitty web designer.</p>\n",
 			"date_published": "2017-11-15T19:25:00+13:00",
-			"url": "http://arc-rewrite.net/2017/11/15/arc-rewrite-testing.html"
+			"url": "https://JacksonOfTrades.micro.blog/2017/11/15/arc-rewrite-testing.html"
 		},
 		
 		{
@@ -26,7 +26,7 @@
 	      	
 			"content_html": "<p>See, Bernie Berstein is a good name, but I have something even better </p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/G-LtddOgUCE\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n",
 			"date_published": "2017-11-15T19:10:00+13:00",
-			"url": "http://arc-rewrite.net/2017/11/15/see-bernie-berstein.html"
+			"url": "https://JacksonOfTrades.micro.blog/2017/11/15/see-bernie-berstein.html"
 		},
 		
 		{
@@ -36,7 +36,7 @@
 			
 			"content_html": "<p><a href=\"http://www.rollingstone.com/glixel/features/loot-boxes-never-ending-games-and-always-paying-players-w511655\">The Rolling Stone</a>:</p>\n\n<blockquote>\n  <p>While free-to-play PC games flourished in Asia, similar concepts started to take root in western markets, fueled by the rise of gaming on social media sites like MySpace and Facebook, and eventually on smartphones. A VentureBeat story from early 2009 said that Zynga was making at least $50 million per year, mostly from sales of virtual goods.</p>\n</blockquote>\n",
 			"date_published": "2017-11-15T18:12:00+13:00",
-			"url": "http://arc-rewrite.net/2017/11/15/the-origin-of.html"
+			"url": "https://JacksonOfTrades.micro.blog/2017/11/15/the-origin-of.html"
 		},
 		
 		{
@@ -46,7 +46,7 @@
 			
 			"content_html": "<p><a href=\"https://www.subtraction.com/2017/11/14/dumb-movies-may-turn-out-to-be-right-about-photo-enhancement/\">“Zoom and enhance” may actually be a real concept soon, instead of a movie groan</a>:</p>\n\n<blockquote>\n  <p>For years we’ve groaned every time a character in a movie commands a computer to “Enhance!” a low resolution image, and then watched as an implausibly clear, high resolution replacement appears before our eyes. For me, this has always been one of the worst kinds of lazy storytelling; it always suggests a fundamental lack of understanding of how digital imaging works on the part of the moviemakers.</p>\n</blockquote>\n\n<blockquote>\n  <p>Well as it turns out, the work of scientists over at the Max Planck Institute for Intelligent Systems in Germany may ultimately give technologically clueless film directors from the 1980s and 1990s the last laugh.</p>\n</blockquote>\n\n",
 			"date_published": "2017-11-15T16:55:00+13:00",
-			"url": "http://arc-rewrite.net/2017/11/15/zoom-and-enhance.html"
+			"url": "https://JacksonOfTrades.micro.blog/2017/11/15/zoom-and-enhance.html"
 		},
 		
 		{
@@ -54,7 +54,7 @@
 	      	
 			"content_html": "<p>Currently trying to learn Hiragana so that I can help edit manga and visual novel translations</p>\n",
 			"date_published": "2017-11-14T17:05:00+13:00",
-			"url": "http://arc-rewrite.net/2017/11/14/currently-trying-to.html"
+			"url": "https://JacksonOfTrades.micro.blog/2017/11/14/currently-trying-to.html"
 		},
 		
 		{
@@ -62,7 +62,7 @@
 	      	
 			"content_html": "<h1 id=\"dont-mind-me\">Don’t mind me!</h1>\n\n<p>Just testing some stuff out and stealing your memes.</p>\n",
 			"date_published": "2017-11-14T16:16:00+13:00",
-			"url": "http://arc-rewrite.net/2017/11/14/dont-mind-mejust.html"
+			"url": "https://JacksonOfTrades.micro.blog/2017/11/14/dont-mind-mejust.html"
 		},
 		
 		{
@@ -70,7 +70,7 @@
 	      	
 			"content_html": "<p>Who decided it was a good idea to give a 19 year old journalism student a micro.blog website? Time to start something I’ve been putting off for a while.</p>\n",
 			"date_published": "2017-11-14T14:57:00+13:00",
-			"url": "http://arc-rewrite.net/2017/11/14/who-decided-it.html"
+			"url": "https://JacksonOfTrades.micro.blog/2017/11/14/who-decided-it.html"
 		}
 		
 	]
