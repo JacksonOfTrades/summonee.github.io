@@ -1,26 +1,9 @@
-.page-content{
-  background: #f9f9f9;
-  font-family: "Georgia", serif
-}
-
-.site-title{
-  font-family: "Georgia", serif;
-  background: #303030;
+*{
+  background: #33495f;
   color: #f9f9f9;
 }
 
-.site-title a{
-  color: #f9f9f9;
-  background: #303030;
-}
-
-a.site-title:before{
-  content: "Arc;Rewrite | ";
-  border-bottom: 2px solid #303030;
-}
-
-a.site-title:after{
-  content: "| A blog about technology, fandom, and depression." 
-}
-
-.site-title{color: #f9f9f9;}
+@media (max-width: 800px) { 
+.post-teaser__title{
+  text-align: left;
+  }}
