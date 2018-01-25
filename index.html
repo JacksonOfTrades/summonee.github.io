@@ -1,18 +1,28 @@
 ---
 layout: default
-css_class: home
+sitemap:
+  priority: 0.9
 ---
-<section class="posts h-feed">
-  {% for p in paginator.posts %}
-    <article class="post h-entry">
-      <div class="e-content">{{ p.content }}</div>
-      <footer class="post__footer">
-        <small><time class="dt-published" datetime="{{ p.date | date_to_xmlschema }}"><a href="{{ p.url }}" title="Permalink to Microblog post" class="u-url">{{ p.date | date: "%a, %b %d, %Y at %I:%M%P" }}</time></a></small>
-      </footer>
-    </article>
-  {% endfor %}
-</section>
+
+{% include page/title.html %}
+
+<ul class="list-posts h-feed">
+    {% for post in paginator.posts %}
+        <li class="post-teaser h-entry">
+			<span class="post-teaser__title e-content">{{ post.content }}</span>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="u-url">
+                <span class="post-teaser__date"><time class="dt-published" datetime="{{ post.date }}">{{ post.date | date: "%d %B %Y" }}</time></span>
+            </a>
+        </li>
+    {% endfor %}
+</ul>
 
 {% if paginator.previous_page or paginator.next_page %}
     {% include pagination.html %}
 {% endif %}
+
+<footer>
+	<p class="text">{{ site.description }}</p>
+</footer>
+
+{% include page/explore.html %}
