@@ -1,16 +1,11 @@
-# Dependencies
-# - markdown:         redcarpet
-highlighter:      rouge
+email: your-email@domain.com
 
-# Permalinks
-# - permalink:        pretty
-# - relative_permalinks: true
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  sass_dir: assets/stylesheets
+  style: :compressed
 
 title: "Jackson Wyndow"
 tagline: ""
