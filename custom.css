@@ -6,6 +6,10 @@ body{
   background: #33495f!important;
 }
 
+a{
+  color: orange;
+}
+
 @media (max-width: 800px) { 
 .post-teaser__title{
   text-align: left;
