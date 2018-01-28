@@ -3,7 +3,7 @@ title: "CV"
 permalink: "/cv/"
 layout: page
 order: 1
-date: 2018-01-27 19:28 +1300
+date: 2018-01-28 14:57 +1300
 ---
 Technical Skills
 ================
@@ -112,8 +112,8 @@ around my home town.
 Web Design
 ----------
 
-Freelance web designer, who spent many hours building I build several
+Freelance web designer, who spent many hours learning the craft of web design. I built several
 high quality websites for my clients, often for buisnesses or youth
-groups. As I built all these websites myself, I was also responsible for
+groups. I was also responsible for
 making sure people clicked on them, so I understand how SEO works and
 how to use Google Advertising to make the website money.
